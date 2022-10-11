@@ -1,0 +1,31 @@
+.container {
+  width: 20%;
+  height: 90px;
+}
+img {
+  width: 190%;
+  position: relative;
+  left: 140%;
+}
+.first {
+  position: relative;
+  left: 299%;
+  top: 150px;
+  z-index: 2;
+  font-size: 2rem;
+  text-shadow: 1px 2px 0px rgb(149, 162, 163);
+  background: bisque;
+  border: 3px solid #0c0d0e;
+  border-radius: 50%;
+  width: 25%;
+  
+}
+p {
+  border: 2px solid gray;
+  width: 190%;
+  height: 80px;
+  border-radius: 12%;
+  position: relative;
+  left: 140%;
+  background-color: burlywood;
+}
